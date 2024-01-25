@@ -1,0 +1,12 @@
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\bin\Debug\ProductDB.mdf
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\bin\Debug\ProductDB_log.ldf
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\bin\Debug\CPT-206-HW-Assignment1.exe.config
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\bin\Debug\CPT-206-HW-Assignment1.exe
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\bin\Debug\CPT-206-HW-Assignment1.pdb
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT-206-HW-Assignment1.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT_206_HW_Assignment1.Form1.resources
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT_206_HW_Assignment1.Properties.Resources.resources
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT-206-HW-Assignment1.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT-206-HW-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT-206-HW-Assignment1.exe
+C:\Users\jason\source\repos\CPT-206-HW-Assignment1\obj\Debug\CPT-206-HW-Assignment1.pdb
