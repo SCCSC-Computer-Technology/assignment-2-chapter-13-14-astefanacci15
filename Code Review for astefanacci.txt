@@ -1,0 +1,37 @@
+Code Review for astefanacci:
+
+Code Compilation and Warnings:
+- The code appears to be free of syntax errors, compiling successfully without any issues.
+- There are no compiler warnings.
+
+Readability and Documentation:
+- Overall, the code demonstrates good readability, supported by informative comments describing different sections.
+- Descriptive variable and method names contribute to the clarity of the code.
+- Additional comments clarifying the purpose of specific logic blocks or complex operations would enhance overall documentation.
+
+Code Improvement:
+- A suggested improvement is to create a dedicated method for clearing the list box, promoting code reusability and maintainability.
+
+Repetitive Code and Dead Code:
+- I see repetition in clearing the result list box, it is recommended to abstract this functionality into a separate method.
+- I see no instances of dead code
+
+Software Defects and Testing:
+- The code itself seems free of specific defects, however the biggest flaw I noticed was when results box seems to only be able to display a product when the product number is entered.
+- Other attempted entries do not appear in the results box when requested. A posible user error, but something that was noticed.
+
+Exception Handling:
+- Basic exception handling is in place with the use of well descriptive error messages. 
+
+Appropriateness of Framework and Code Usage:
+- The use of Windows Forms and LINQ appears fitting for the context of a straightforward data retrieval and display application.
+
+Differences in Approach:
+- The author employs a direct approach to manage user input for different scenarios.
+- However, this was a different approach than mine in that the Product table was directly imported onto the form.
+- Personally, I favor this authors approach, but I found my method was more accurate to the assignment instructions.
+
+Constructive Feedback:
+- Overall, a very well written program with clear comments and little to no defects.
+- Breaking down the code into smaller methods would enhance overall code readability.
+- Consider abstracting repetitive code into reusable methods to promote code maintainability and reduce redundancy.
