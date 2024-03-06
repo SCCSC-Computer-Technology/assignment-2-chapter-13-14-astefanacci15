@@ -1,0 +1,19 @@
+(This is for attempt 2)
+
+for your ProductDescription button, it checks the text box for the product NUM, instead of the product Description.
+
+for the More Than/Less Than button, it checks the MIN/MAX radio button.
+
+and for the MIN/MAX button, it checks for More Than/Less Than radio buttons.
+
+If we fix the mix ups, the program runs smoothly.
+
+Some additional help that goes a long way, is to use ".Contains" instead of  "==" for searching the description/number. It effectively is a LIKE query.
+
+For example:
+where Product.Description.Contains(productDescription)
+
+instead of:
+where Product.Description == productDescription
+
+I also like the colors. Much more interesting than my gray project.
