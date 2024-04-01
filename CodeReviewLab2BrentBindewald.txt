@@ -1,0 +1,7 @@
+CPT 206
+
+Brent Bindewald
+
+Lab 2 Code Review:
+
+For the Code review I downloaded the corrected version of 'assignment-2-chapter-13-14-astefanacci15', and will be reviewing that specifically. No issues getting the program to run. The UI looks clean (Nice color scheme!), everything is compact and placed where it would make sense logically. I tried using each button, and did not run into any program stopping errors. The results text are translating perfectly as well. 
